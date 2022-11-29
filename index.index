@@ -4,12 +4,9 @@
 <title>Page Title</title>
 </head>
 <body>
-<<<<<<< HEAD
-<p>first paragraph.</p>
-<p>This is another paragraph</p>
-=======
 <h1>This is a Heading</h1>
+<p>first paragraph.</p>
 <p>This is a paragraph</p>
->>>>>>> 5865e0e (Update index.index)
+<p>This is another paragraph</p>
 </body>
 </html>
